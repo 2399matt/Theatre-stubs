@@ -1,3 +1,5 @@
+ 
+
 /**
  * Booking class is used to store all the critical data of a show for a given customer.
  * Bookings hold onto a customer,  a show, and the seat that the customer is in.

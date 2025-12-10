@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Show
+comment0.text=\r\n\ Show\ class\ represents\ the\ showing\ of\ a\ movie\ in\ a\ theater.\r\n\ Stores\ the\ rows\ of\ the\ theater,\ the\ start\ time,\ and\ movie\r\n\ for\ a\ given\ show\ to\ be\ played\ in\ the\ theater.\r\n
+comment1.params=rows\ startTime\ playingMovie
+comment1.target=Show(java.util.List,\ java.time.LocalDateTime,\ Movie)
+comment2.params=
+comment2.target=java.util.List\ getRows()
+comment2.text=\r\n\ Method\ to\ access\ the\ rows\ of\ a\ theater\ for\ a\ given\ Show.\r\n\r\n\ @return\ The\ list\ of\ rows\ for\ the\ theater.\r\n
+comment3.params=
+comment3.target=java.time.LocalDateTime\ getStartTime()
+comment3.text=\r\n\ Method\ to\ retrieve\ the\ start\ time\ of\ the\ show.\r\n\r\n\ @return\ The\ start\ time\ of\ the\ Show.\r\n
+comment4.params=
+comment4.target=Movie\ getPlayingMovie()
+comment4.text=\r\n\ Method\ to\ retrieve\ the\ movie\ that\ will\ be\ playing\ in\ a\ Show.\r\n\r\n\ @return\ The\ movie\ that\ will\ be\ playing\ for\ the\ Show.\r\n
+numComments=5

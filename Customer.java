@@ -1,3 +1,5 @@
+ 
+
 /**
  * Customer class represents a patron of the theater.
  * A customer only needs to contain a phone number, and will be placed in a seat.

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Movie
+comment0.text=\r\n\ Movie\ class\ is\ used\ to\ represent\ a\ movie.\r\n\ Movies\ contain\ titles,\ runtime\ lengths,\ parental\ ratings,\ and\ genres.\r\n
+comment1.params=genres\ title\ runTimeLength\ parentalRating
+comment1.target=Movie(java.util.List,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.List\ getGenres()
+comment2.text=\r\n\ Method\ to\ retrieve\ the\ genres\ of\ a\ given\ movie.\ Must\ be\ a\ list,\r\n\ movies\ can\ have\ more\ than\ one\ genre.\r\n\r\n\ @return\ The\ genres\ that\ the\ movie\ falls\ under.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment3.text=\r\n\ Method\ to\ retrieve\ the\ title\ of\ a\ movie.\r\n\r\n\ @return\ The\ title\ of\ the\ movie.\r\n
+comment4.params=
+comment4.target=int\ getRunTimeLength()
+comment4.text=\r\n\ Method\ to\ retrieve\ the\ runtime\ length\ of\ a\ movie.\r\n\r\n\ @return\ The\ runtime\ length\ of\ the\ movie.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getParentalRating()
+comment5.text=\r\n\ Method\ to\ retrieve\ the\ parental\ rating\ of\ the\ movie.\r\n\r\n\ @return\ The\ parental\ rating\ of\ the\ movie.\r\n
+numComments=6

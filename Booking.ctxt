@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Booking
+comment0.text=\r\n\ Booking\ class\ is\ used\ to\ store\ all\ the\ critical\ data\ of\ a\ show\ for\ a\ given\ customer.\r\n\ Bookings\ hold\ onto\ a\ customer,\ \ a\ show,\ and\ the\ seat\ that\ the\ customer\ is\ in.\r\n\ Provides\ utility\ for\ quick\ lookup\ in\ a\ centralized\ location.\r\n
+comment1.params=customer\ show
+comment1.target=Booking(src.Customer,\ src.Show)
+comment2.params=
+comment2.target=src.Show\ getShow()
+comment2.text=\r\n\ Method\ to\ retrieve\ the\ relevant\ show\ of\ the\ booking.\r\n\r\n\ @return\ The\ show\ the\ booking\ is\ for.\r\n
+comment3.params=
+comment3.target=src.Customer\ getCustomer()
+comment3.text=\r\n\ Method\ to\ retrieve\ the\ customer\ that\ made\ the\ booking.\r\n\r\n\ @return\ The\ customer\ who\ created\ the\ booking.\r\n
+numComments=4

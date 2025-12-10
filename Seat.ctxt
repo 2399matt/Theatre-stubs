@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Seat
+comment0.text=\r\n\ Seat\ class\ represents\ the\ seats\ in\ a\ row\ in\ a\ theater.\r\n\ A\ seat\ holds\ onto\ a\ customer,\ as\ well\ as\ a\ seat\ number\ to\ represent\ the\ position\r\n\ in\ the\ row/theater.\r\n
+comment1.params=customer\ seatNumber
+comment1.target=Seat(src.Customer,\ int)
+comment2.params=
+comment2.target=src.Customer\ getCustomer()
+comment2.text=\r\n\ Returns\ the\ customer\ that\ will\ be\ sitting\ in\ the\ seat.\r\n\ Would\ need\ defense\ against\ NPE\ if\ a\ seat\ is\ unbooked.\r\n\r\n\ @return\ The\ customer,\ if\ it\ exists.\r\n
+comment3.params=
+comment3.target=int\ getSeatNumber()
+comment3.text=\r\n\ Returns\ the\ number\ for\ the\ given\ seat\ corresponding\ to\ the\ row.\r\n\r\n\ @return\ The\ seat\ number.\r\n
+numComments=4

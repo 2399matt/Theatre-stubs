@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Row
+comment0.text=\r\n\ Row\ class\ is\ used\ to\ represent\ the\ rows\ of\ a\ theater.\r\n\ A\ row\ contains\ an\ array\ of\ seats,\ each\ holding\ onto\ a\ customer.\r\n
+comment1.params=seats
+comment1.target=Row(Seat[])
+comment2.params=
+comment2.target=Seat[]\ getSeats()
+comment2.text=\r\n\ Method\ to\ retrieve\ all\ the\ seats\ in\ a\ given\ row.\r\n\r\n\ @return\ The\ seats\ in\ a\ row.\r\n
+numComments=3
